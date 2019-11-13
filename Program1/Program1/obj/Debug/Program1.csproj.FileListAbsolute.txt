@@ -1,0 +1,10 @@
+C:\Users\Tanner Lyon\Desktop\C#\Program 1\Program1\Program1\obj\Debug\Program1.csprojAssemblyReference.cache
+C:\Users\Tanner Lyon\Desktop\C#\Program 1\Program1\Program1\obj\Debug\Program1.Form1.resources
+C:\Users\Tanner Lyon\Desktop\C#\Program 1\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\Tanner Lyon\Desktop\C#\Program 1\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\Tanner Lyon\Desktop\C#\Program 1\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Tanner Lyon\Desktop\C#\Program 1\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\Tanner Lyon\Desktop\C#\Program 1\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\Tanner Lyon\Desktop\C#\Program 1\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\Tanner Lyon\Desktop\C#\Program 1\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\Tanner Lyon\Desktop\C#\Program 1\Program1\Program1\obj\Debug\Program1.pdb
